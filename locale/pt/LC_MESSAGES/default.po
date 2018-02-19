@@ -52,11 +52,14 @@ msgid ""
 "created with the ambition to bring to the Python community the quality and "
 "functionality available in commercial IDEs available for other languages."
 msgstr ""
+"Um script de codigo aberto e livre, Python integrado com o ambiente de desenvolvimento "
+"criado com a ambição de trazer para a comnunidade Python a qualidade e"
+"funcionalidade disponivel em IDEs comerciais para outras linguagens."
 
 #. AskParamForm..Caption
 #: dlgAskParam.dfm
 msgid "Unknown parameter"
-msgstr ""
+msgstr "Parâmetro desconhecido"
 
 #. AskParamForm..SpTBXPanel1..btnOK..Caption
 #. CodeTemplates..Panel..btnOK..Caption
@@ -87,7 +90,7 @@ msgstr ""
 #: dlgRunConfiguration.dfm dlgSynEditOptions.dfm dlgSynPageSetup.dfm
 #: dlgToDoOptions.dfm dlgToolProperties.dfm dlgUnitTestWizard.dfm
 msgid "&OK"
-msgstr ""
+msgstr "&OK"
 
 #. AskParamForm..SpTBXPanel1..btnCancel..Caption
 #. CodeTemplates..Panel..btnCancel..Caption
@@ -126,17 +129,17 @@ msgstr "&Cancelar"
 #. AskParamForm..SpTBXPanel1..chkSaveToFile..Caption
 #: dlgAskParam.dfm
 msgid "and save it as a custom parameter"
-msgstr ""
+msgstr "E salvar como um parâmetro customizado"
 
 #. AskParamForm..SpTBXPanel1..Label1..Caption
 #: dlgAskParam.dfm
 msgid "Enter value for parameter "
-msgstr ""
+msgstr "Entrar com o valor para o parâmetro "
 
 #. CodeTemplates..Caption
 #: dlgCodeTemplates.dfm
 msgid "Code Templates"
-msgstr ""
+msgstr "Modelo de código"
 
 #. CodeTemplates..Panel..btnHelp..Caption
 #. CommandLineDlg..Panel..HelpButton..Caption
@@ -162,12 +165,12 @@ msgstr ""
 #: dlgUnitTestWizard.dfm frmFindResults.dfm frmFunctionList.dfm
 #: frmPyIDEMain.dfm frmToDo.dfm
 msgid "&Help"
-msgstr ""
+msgstr "&Ajuda"
 
 #. CodeTemplates..Panel..GroupBox..Caption
 #: dlgCodeTemplates.dfm
 msgid "Code Template:"
-msgstr ""
+msgstr "Modelo de código"
 
 #. CodeTemplates..Panel..GroupBox..Label1..Caption
 #. CustomizeParams..Panel..GroupBox1..Label1..Caption
@@ -177,32 +180,32 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 #: dlgToolProperties.dfm
 msgid "&Name:"
-msgstr ""
+msgstr "&Nome:"
 
 #. CodeTemplates..Panel..GroupBox..Label2..Caption
 #. FileTemplatesDialog..Panel..GroupBox..Label2..Caption
 #: dlgCodeTemplates.dfm dlgFileTemplates.dfm
 msgid "&Template:"
-msgstr ""
+msgstr "&Modelo:"
 
 #. CodeTemplates..Panel..GroupBox..Label5..Caption
 #: dlgCodeTemplates.dfm
 msgid "&Description:"
-msgstr ""
+msgstr "&Descrição:"
 
 #. CodeTemplates..Panel..GroupBox..Label4..Caption
 #. CustomizeParams..Panel..Label4..Caption
 #. FileTemplatesDialog..Panel..GroupBox..Label4..Caption
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 msgid "Press Shift+Ctrl+M for Modifier completion"
-msgstr ""
+msgstr "Pressione Shift+Ctrl+M para Complementar modificação"
 
 #. CodeTemplates..Panel..GroupBox..Label3..Caption
 #. CustomizeParams..Panel..Label3..Caption
 #. FileTemplatesDialog..Panel..GroupBox..Label3..Caption
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 msgid "Press Shift+Ctrl+P for Parameter completion"
-msgstr ""
+msgstr "Pressione Shift+Ctrl+P para complementar Parâmetro"
 
 #. CodeTemplates..Panel..lvItems......Caption
 #. CustomizeParams..Panel..lvItems......Caption
@@ -213,13 +216,13 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 #: dlgToolProperties.dfm frmRegExpTester.dfm frmVariables.dfm frmVariables.pas
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #. CodeTemplates..Panel..lvItems......Caption
 #. ToDoWindow..BGPanel..FGPanel..ToDoView......WideText
 #: dlgCodeTemplates.dfm frmToDo.dfm
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #. CodeTemplates..ActionList..actAddItem..Caption
 #. CustomizeParams..ActionList..actAddItem..Caption
@@ -229,7 +232,7 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 #: dlgSynEditOptions.dfm dlgToolProperties.dfm
 msgid "&Add"
-msgstr ""
+msgstr "&Adicionar"
 
 #. CodeTemplates..ActionList..actAddItem..Hint
 #. CustomizeParams..ActionList..actAddItem..Hint
@@ -238,7 +241,7 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 #: dlgToolProperties.dfm
 msgid "Add item"
-msgstr ""
+msgstr "Adicionar item"
 
 #. CodeTemplates..ActionList..actDeleteItem..Caption
 #. CustomizeParams..ActionList..actDeleteItem..Caption
@@ -248,7 +251,7 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgDirectoryList.dfm
 #: dlgFileTemplates.dfm dlgToolProperties.dfm
 msgid "&Delete"
-msgstr ""
+msgstr "&Deletar"
 
 #. CodeTemplates..ActionList..actDeleteItem..Hint
 #. CustomizeParams..ActionList..actDeleteItem..Hint
@@ -257,7 +260,7 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 #: dlgToolProperties.dfm
 msgid "Delete item"
-msgstr ""
+msgstr "Deletar item"
 
 #. CodeTemplates..ActionList..actMoveUp..Caption
 #. ConfigureTools..SpTBXPanel1..MoveUpBtn..Caption
@@ -267,14 +270,14 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgConfigureTools.dfm dlgCustomParams.dfm
 #: dlgFileTemplates.dfm frmFileExplorer.dfm
 msgid "&Up"
-msgstr ""
+msgstr "&Cima"
 
 #. CodeTemplates..ActionList..actMoveUp..Hint
 #. CustomizeParams..ActionList..actMoveUp..Hint
 #. FileTemplatesDialog..ActionList..actMoveUp..Hint
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 msgid "Move item up"
-msgstr ""
+msgstr "Mover item para cima"
 
 #. CodeTemplates..ActionList..actMoveDown..Caption
 #. ConfigureTools..SpTBXPanel1..MoveDownBtn..Caption
@@ -283,14 +286,14 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgConfigureTools.dfm dlgCustomParams.dfm
 #: dlgFileTemplates.dfm
 msgid "&Down"
-msgstr ""
+msgstr "&Baixo"
 
 #. CodeTemplates..ActionList..actMoveDown..Hint
 #. CustomizeParams..ActionList..actMoveDown..Hint
 #. FileTemplatesDialog..ActionList..actMoveDown..Hint
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 msgid "Move item down"
-msgstr ""
+msgstr "Mover item para baixo"
 
 #. CodeTemplates..ActionList..actUpdateItem..Caption
 #. CustomizeParams..ActionList..actUpdateItem..Caption
@@ -300,7 +303,7 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 #: dlgSynEditOptions.dfm dlgToolProperties.dfm
 msgid "&Update"
-msgstr ""
+msgstr "&Atualizar"
 
 #. CodeTemplates..ActionList..actUpdateItem..Hint
 #. CustomizeParams..ActionList..actUpdateItem..Hint
@@ -309,22 +312,22 @@ msgstr ""
 #: dlgCodeTemplates.dfm dlgCustomParams.dfm dlgFileTemplates.dfm
 #: dlgToolProperties.dfm
 msgid "Update item"
-msgstr ""
+msgstr "Atualizar item"
 
 #. CommandLineDlg..Caption
 #: dlgCommandLine.dfm
 msgid "Command Line Parameters"
-msgstr ""
+msgstr "Parâmetros de linha de comando"
 
 #. CommandLineDlg..Panel..TBXButton1..Hint
 #: dlgCommandLine.dfm
 msgid "History"
-msgstr ""
+msgstr "Histórico"
 
 #. CommandLineDlg..Panel..cbUseCommandLine..Caption
 #: dlgCommandLine.dfm
 msgid "Use Command Line Parameters?"
-msgstr ""
+msgstr "Usar parâmetros de linha de comando?"
 
 #. CommandLineDlg..Panel..Label1....Caption
 #: dlgCommandLine.dfm
@@ -332,29 +335,31 @@ msgid ""
 "Please enter parameters to be appended to the command line:\n"
 "Note that the script name is automatically inserted as the first argument."
 msgstr ""
+"Por favor, entre com os parâmetros que serão adicionados à linha de comando:\n"
+"Observe que o nome do script é inserido automaticamente como o primeiro argumento."
 
 #. CommandLineDlg..Panel..Label3..Caption
 #. RunConfigurationForm..Panel1..GroupBox2..Label3..Caption
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox2..Label3..Caption
 #: dlgCommandLine.dfm dlgRunConfiguration.dfm dlgToolProperties.dfm
 msgid "Parameters : Shift+Ctrl+P, Modifiers : Shift+Ctrl+M "
-msgstr ""
+msgstr "Parâmetros : Shift+Ctrl+P, Modificadores : Shift+Ctrl+M "
 
 #. CommandLineDlg..TBXPopupHistory..EmptyHistoryPopupItem..Caption
 #: dlgCommandLine.dfm
 msgid "(Empty History)"
-msgstr ""
+msgstr "(Histórico Vazio)"
 
 #. ConfigureTools..Caption
 #: dlgConfigureTools.dfm
 msgid "Configure Tools"
-msgstr ""
+msgstr "Configurar Ferramentas"
 
 #. ConfigureTools..SpTBXPanel1..AddBtn..Caption
 #. DirectoryListDialog..SpTBXPanel2..btnAdd..Caption
 #: dlgConfigureTools.dfm dlgDirectoryList.dfm
 msgid "&Add..."
-msgstr ""
+msgstr "&Adicionar..."
 
 #. ConfigureTools..SpTBXPanel1..RemoveBtn..Caption
 #. frmCustomKeyboard..ActionList1..actRemoveShortcut..Caption
@@ -364,49 +369,49 @@ msgstr ""
 #: dlgConfigureTools.dfm dlgCustomShortcuts.dfm dlgSynEditOptions.dfm
 #: dlgToDoOptions.dfm frmProjectExplorer.dfm
 msgid "&Remove"
-msgstr ""
+msgstr "&Remover"
 
 #. ConfigureTools..SpTBXPanel1..ModifyBtn..Caption
 #: dlgConfigureTools.dfm
 msgid "&Modify.."
-msgstr ""
+msgstr "&Modificar.."
 
 #. ConfirmReplaceDialog..Caption
 #: dlgConfirmReplace.dfm
 msgid "Confirm replace"
-msgstr ""
+msgstr "Confirmar substituição"
 
 #. ConfirmReplaceDialog..SpTBXPanel1..btnReplace..Caption
 #: dlgConfirmReplace.dfm
 msgid "&Yes"
-msgstr ""
+msgstr "&Sim"
 
 #. ConfirmReplaceDialog..SpTBXPanel1..btnSkip..Caption
 #: dlgConfirmReplace.dfm
 msgid "&No"
-msgstr ""
+msgstr "&Não"
 
 #. ConfirmReplaceDialog..SpTBXPanel1..btnReplaceAll..Caption
 #: dlgConfirmReplace.dfm
 msgid "Yes to &all"
-msgstr ""
+msgstr "Sim para &todos"
 
 #. CustomizeParams..Caption
 #: dlgCustomParams.dfm
 msgid "Custom Parameters"
-msgstr ""
+msgstr "Parâmetros Customizados"
 
 #. CustomizeParams..Panel..GroupBox1..Caption
 #. ToolProperties..Panel1..TabControl..tabEnvironment..GroupBox6..Caption
 #: dlgCustomParams.dfm dlgToolProperties.dfm
 msgid "Name-Value Pair"
-msgstr ""
+msgstr "Copia Nome-Valor"
 
 #. CustomizeParams..Panel..GroupBox1..Label2..Caption
 #. ToolProperties..Panel1..TabControl..tabEnvironment..GroupBox6..Label16..Caption
 #: dlgCustomParams.dfm dlgToolProperties.dfm
 msgid "&Value:"
-msgstr ""
+msgstr "&Valor:"
 
 #. CustomizeParams..Panel..lvItems......Caption
 #. OptionsInspector..Panel1..Inspector..HeaderValueText
@@ -417,172 +422,172 @@ msgstr ""
 #: dlgCustomParams.dfm dlgOptionsEditor.dfm dlgToolProperties.dfm
 #: frmRegExpTester.dfm frmVariables.dfm frmWatches.dfm frmVariables.pas
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #. frmCustomKeyboard..Caption
 #: dlgCustomShortcuts.dfm
 msgid "Customize IDE Shortcuts"
-msgstr ""
+msgstr "Customizar Atalhos da IDE"
 
 #. frmCustomKeyboard..Panel1..lblNewShortcutKey..Caption
 #: dlgCustomShortcuts.dfm
 msgid "Press &new shortcut key:"
-msgstr ""
+msgstr "Pressione &nova tecla de atalho"
 
 #. frmCustomKeyboard..Panel1..lblCategories..Caption
 #: dlgCustomShortcuts.dfm
 msgid "&Categories:"
-msgstr ""
+msgstr "&Categorias:"
 
 #. frmCustomKeyboard..Panel1..lblCommands..Caption
 #: dlgCustomShortcuts.dfm
 msgid "C&ommands:"
-msgstr ""
+msgstr "C&omandos:"
 
 #. frmCustomKeyboard..Panel1..lblCurrent..Caption
 #: dlgCustomShortcuts.dfm
 msgid "Currently assigned to:"
-msgstr ""
+msgstr "Atualmente atribuído a:"
 
 #. frmCustomKeyboard..Panel1..lblCurrentKeys..Caption
 #: dlgCustomShortcuts.dfm
 msgid "C&urrent Keys:"
-msgstr ""
+msgstr "Tecla A&tual:"
 
 #. frmCustomKeyboard..Panel1..gbDescription..Caption
 #: dlgCustomShortcuts.dfm
 msgid " Description "
-msgstr ""
+msgstr "Descrição"
 
 #. frmCustomKeyboard..ActionList1..actAssignShortcut..Caption
 #: dlgCustomShortcuts.dfm
 msgid "&Assign"
-msgstr ""
+msgstr "&Atribuir"
 
 #. frmCustomKeyboard..ActionList1..actAssignShortcut..Hint
 #: dlgCustomShortcuts.dfm
 msgid "Assign shortcut to command"
-msgstr ""
+msgstr "Atribuir atalho ao comando"
 
 #. frmCustomKeyboard..ActionList1..actRemoveShortcut..Hint
 #: dlgCustomShortcuts.dfm
 msgid "Remove shortcut"
-msgstr ""
+msgstr "Remover atalho"
 
 #. DirectoryListDialog..Caption
 #: dlgDirectoryList.dfm
 msgid "Directory list"
-msgstr ""
+msgstr "Lista de diretórios"
 
 #. DirectoryListDialog..SpTBXPanel1..btnMoveUp..Hint
 #: dlgDirectoryList.dfm
 msgid "Move up"
-msgstr ""
+msgstr "Mover para cima"
 
 #. DirectoryListDialog..SpTBXPanel1..btnMoveDown..Hint
 #: dlgDirectoryList.dfm
 msgid "Move down"
-msgstr ""
+msgstr "Mover para baixo"
 
 #. DirectoryListDialog..SpTBXPanel1..SpTBXLabel1..Caption
 #: dlgDirectoryList.dfm
 msgid "Ordered list of file paths:"
-msgstr ""
+msgstr "Lista ordenada por caminho de arquivo"
 
 #. DirectoryListDialog..SpTBXPanel2..btnAdd..Hint
 #: dlgDirectoryList.dfm
 msgid "Add file path to the list"
-msgstr ""
+msgstr "Adicionar caminho de arquivo a lista"
 
 #. DirectoryListDialog..SpTBXPanel2..btnReplace..Hint
 #: dlgDirectoryList.dfm
 msgid "Replace the selected file path"
-msgstr ""
+msgstr "Substituir o caminho selecionado"
 
 #. DirectoryListDialog..SpTBXPanel2..btnReplace..Caption
 #: dlgDirectoryList.dfm
 msgid "&Replace"
-msgstr ""
+msgstr "&Substituir"
 
 #. DirectoryListDialog..SpTBXPanel2..edPath..Hint
 #: dlgDirectoryList.dfm
 msgid "Enter file path here"
-msgstr ""
+msgstr "Entrar com o caminho do arquivo"
 
 #. DirectoryListDialog..SpTBXPanel2..edPath..EditButton.Hint
 #: dlgDirectoryList.dfm
 msgid "Select file path"
-msgstr ""
+msgstr "Selecionar caminho do arquivo"
 
 #. DirectoryListDialog..SpTBXPanel2..btnDelete..Hint
 #: dlgDirectoryList.dfm
 msgid "Delete the selected file path"
-msgstr ""
+msgstr "Excluir o caminho selecionado"
 
 #. ExceptionDialogMail..SendBtn..Hint
 #: dlgExceptionMail.dfm
 msgid "Send bug report using default mail client"
-msgstr ""
+msgstr "Enviar relatório de erro usando o cliente de e-mail padrão"
 
 #. ExceptionDialogMail..SendBtn..Caption
 #: dlgExceptionMail.dfm
 msgid "&Send"
-msgstr ""
+msgstr "&Enviar"
 
 #. ExceptionDialogMail..DetailsBtn..Hint
 #: dlgExceptionMail.dfm
 msgid "Show or hide additional information|"
-msgstr ""
+msgstr "Exibir ou ocultar informações adicionais"
 
 #. ExceptionDialogMail..DetailsBtn..Caption
 #: dlgExceptionMail.dfm
 msgid "&Details"
-msgstr ""
+msgstr "&Detalhes"
 
 #. ExceptionDialogMail..TextMemo..Hint
 #: dlgExceptionMail.dfm
 msgid "Use Ctrl+C to copy the report to the clipboard"
-msgstr ""
+msgstr "Use Ctrl+C para copiar o relatório para a área de transferência"
 
 #. FileTemplatesDialog..Caption
 #: dlgFileTemplates.dfm
 msgid "File Templates"
-msgstr ""
+msgstr "Modelos deAarquivos"
 
 #. FileTemplatesDialog..Panel..GroupBox..Caption
 #: dlgFileTemplates.dfm
 msgid "File Template:"
-msgstr ""
+msgstr "Modelo de Arquivo:"
 
 #. FileTemplatesDialog..Panel..GroupBox..Label5..Caption
 #: dlgFileTemplates.dfm
 msgid "&Category:"
-msgstr ""
+msgstr "&Categoria:"
 
 #. FileTemplatesDialog..Panel..GroupBox..Label6..Caption
 #: dlgFileTemplates.dfm
 msgid "&Default Extension:"
-msgstr ""
+msgstr "&Extensão Padrão:"
 
 #. FileTemplatesDialog..Panel..GroupBox..Label7..Caption
 #: dlgFileTemplates.dfm
 msgid "&Highlighter:"
-msgstr ""
+msgstr "&Marcador:"
 
 #. FileTemplatesDialog..Panel..lvItems......Caption
 #: dlgFileTemplates.dfm
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 #. FindInFilesDialog..Caption
 #: dlgFindInFiles.dfm
 msgid "Find in Files Search"
-msgstr ""
+msgstr "Encontrar na busca de arquivos"
 
 #. FindInFilesDialog..Panel1..lblFind..Caption
 #: dlgFindInFiles.dfm
 msgid "&Text to find:"
-msgstr ""
+msgstr "&texto para encontrar:"
 
 #. FindInFilesDialog..Panel1..gbxOptions..Caption
 #. fmEditorOptionsDialog..Panel1..TabControl..SpTBXTabItem2..Caption
@@ -602,144 +607,144 @@ msgstr ""
 #: dlgFindInFiles.dfm dlgSynEditOptions.dfm dlgToDoOptions.dfm dmCommands.dfm
 #: frmFunctionList.dfm frmPyIDEMain.dfm frmRegExpTester.dfm frmToDo.dfm
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 #. FindInFilesDialog..Panel1..gbxOptions..cbCaseSensitive..Caption
 #: dlgFindInFiles.dfm
 msgid "&Case sensitive"
-msgstr ""
+msgstr "&Maiúsculas e minúsculas"
 
 #. FindInFilesDialog..Panel1..gbxOptions..cbNoComments..Caption
 #: dlgFindInFiles.dfm
 msgid "&Ignore comments"
-msgstr ""
+msgstr "&Ignorar comentários"
 
 #. FindInFilesDialog..Panel1..gbxOptions..cbWholeWord..Caption
 #: dlgFindInFiles.dfm
 msgid "&Whole word"
-msgstr ""
+msgstr "&Palavra inteira"
 
 #. FindInFilesDialog..Panel1..gbxOptions..cbRegEx..Caption
 #: dlgFindInFiles.dfm
 msgid "Regular e&xpression"
-msgstr ""
+msgstr "E&xpressão regular"
 
 #. FindInFilesDialog..Panel1..gbxWhere..Caption
 #: dlgFindInFiles.dfm
 msgid "Where"
-msgstr ""
+msgstr "Onde"
 
 #. FindInFilesDialog..Panel1..gbxWhere..rbOpenFiles..Caption
 #: dlgFindInFiles.dfm
 msgid "&Open files"
-msgstr ""
+msgstr "&Abrir arquivos"
 
 #. FindInFilesDialog..Panel1..gbxWhere..rbProject..Caption
 #: dlgFindInFiles.dfm
 msgid "&Project files"
-msgstr ""
+msgstr "&Arquivos do projeto"
 
 #. FindInFilesDialog..Panel1..gbxWhere..rbCurrentOnly..Caption
 #: dlgFindInFiles.dfm
 msgid "Current &file only"
-msgstr ""
+msgstr "Apenas &arquivo atual"
 
 #. FindInFilesDialog..Panel1..gbxWhere..rbDirectories..Caption
 #: dlgFindInFiles.dfm
 msgid "Search in &directories"
-msgstr ""
+msgstr "Procurar nos &diretório"
 
 #. FindInFilesDialog..Panel1..gbxDirectories..Caption
 #: dlgFindInFiles.dfm
 msgid "Directory Search"
-msgstr ""
+msgstr "Busca por diretório"
 
 #. FindInFilesDialog..Panel1..gbxDirectories..lblMasks..Caption
 #: dlgFindInFiles.dfm
 msgid "File mas&ks:"
-msgstr ""
+msgstr "Mas&cara de arquivo:"
 
 #. FindInFilesDialog..Panel1..gbxDirectories..lblDirectory..Caption
 #: dlgFindInFiles.dfm
 msgid "Di&rectories:"
-msgstr ""
+msgstr "Di&retórios:"
 
 #. FindInFilesDialog..Panel1..gbxDirectories..btnBrowse..Hint
 #. fmToDoOptions..pnlBG..gbxSearchFiles..btnBrowse..Hint
 #: dlgFindInFiles.dfm dlgToDoOptions.dfm
 msgid "Select Directory"
-msgstr ""
+msgstr "Selecionar diretório"
 
 #. FindInFilesDialog..Panel1..gbxDirectories..cbInclude..Caption
 #. fmToDoOptions..pnlBG..gbxSearchFiles..chkInclude..Caption
 #: dlgFindInFiles.dfm dlgToDoOptions.dfm
 msgid "Include su&bdirectories"
-msgstr ""
+msgstr "Incluir subdiretório"
 
 #. FindResultsOptionsDialog..Caption
 #: dlgFindResultsOptions.dfm
 msgid "Find in Files Options"
-msgstr ""
+msgstr "Encontrar em Opções de arquivos"
 
 #. FindResultsOptionsDialog..SpTBXPanel1..gbxMatchList..Caption
 #: dlgFindResultsOptions.dfm
 msgid "Match Results List"
-msgstr ""
+msgstr "Lista de combinações"
 
 #. FindResultsOptionsDialog..SpTBXPanel1..gbxMatchList..chkGrepMiddle..Caption
 #: dlgFindResultsOptions.dfm
 msgid "Jump to matches in the &middle of the editor"
-msgstr ""
+msgstr "Pular para combinações no &meio do editor"
 
 #. FindResultsOptionsDialog..SpTBXPanel1..gbxMatchList..chkGrepExpandAll..Caption
 #: dlgFindResultsOptions.dfm
 msgid "&Expand all matches after searching"
-msgstr ""
+msgstr "&Expandir todas as combinações depois da busca"
 
 #. FindResultsOptionsDialog..SpTBXPanel1..gbxMatchList..pnlListFont..Caption
 #: dlgFindResultsOptions.dfm
 msgid "Match List Font..."
-msgstr ""
+msgstr "Fonte da lista de combinações"
 
 #. FindResultsOptionsDialog..SpTBXPanel1..gbxMatchContext..Caption
 #: dlgFindResultsOptions.dfm
 msgid "Match Context Display"
-msgstr ""
+msgstr "Display de contexto das combinações"
 
 #. FindResultsOptionsDialog..SpTBXPanel1..gbxMatchContext..lblContextLines..Caption
 #: dlgFindResultsOptions.dfm
 msgid "Number of context lines"
-msgstr ""
+msgstr "Numero de linhas de contexto"
 
 #. FindResultsOptionsDialog..SpTBXPanel1..gbxMatchContext..pnlContextFont..Caption
 #: dlgFindResultsOptions.dfm
 msgid "Context Font..."
-msgstr ""
+msgstr "Fonte do contexto"
 
 #. FindResultsOptionsDialog..SpTBXPanel1..gbxMatchContext..pnlMatchLineColor..Caption
 #: dlgFindResultsOptions.dfm
 msgid "Match Font Color..."
-msgstr ""
+msgstr "Cor da fonte de combinação..."
 
 #. ImportDirectoryForm..Caption
 #: dlgImportDirectory.dfm
 msgid "Import Directory"
-msgstr ""
+msgstr "Importar diretório"
 
 #. ImportDirectoryForm..Panel1..cbRecursive..Caption
 #: dlgImportDirectory.dfm
 msgid "Recursive?"
-msgstr ""
+msgstr "Recursivo?"
 
 #. ImportDirectoryForm..Panel1..Label1..Caption
 #: dlgImportDirectory.dfm
 msgid "Directory to import:"
-msgstr ""
+msgstr "Diretório para importar:"
 
 #. ImportDirectoryForm..Panel1..Label2..Caption
 #: dlgImportDirectory.dfm
 msgid "File Masks (e.g. *.py;*.pyw):"
-msgstr ""
+msgstr "Máscara de arquivo (e.g. *.py;*.pyw):"
 
 #. NewFileDialog..Caption
 #: dlgNewFile.dfm
@@ -750,55 +755,55 @@ msgstr "Novo arquivo"
 #. SpTBXCustomizeFormMod..SpTBXTabControl1..SpTBXTabSheet3..SpTBXLabel5..Caption
 #: dlgNewFile.dfm frmModSpTBXCustomize.dfm
 msgid "Categories:"
-msgstr ""
+msgstr "Categorias:"
 
 #. NewFileDialog..Panel1..Panel2..Panel4..Label2..Caption
 #: dlgNewFile.dfm
 msgid "Templates:"
-msgstr ""
+msgstr "Modelos:"
 
 #. NewFileDialog..Panel1..btnCreate..Caption
 #: dlgNewFile.dfm
 msgid "C&reate"
-msgstr ""
+msgstr "C&riar"
 
 #. NewFileDialog..Panel1..btnManageTemplates..Caption
 #: dlgNewFile.dfm
 msgid "Manage File Templates..."
-msgstr ""
+msgstr "Gerenciar arquivo de modelos..."
 
 #. OptionsInspector..Panel1..Inspector..Text
 #: dlgOptionsEditor.dfm
 msgid "Inspector"
-msgstr ""
+msgstr "Inspetor"
 
 #. OptionsInspector..Panel1..Inspector..DefaultCategoryName
 #: dlgOptionsEditor.dfm
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Diversos"
 
 #. OptionsInspector..Panel1..Inspector..HeaderPropText
 #: dlgOptionsEditor.dfm
 msgid "Property"
-msgstr ""
+msgstr "Propriedade"
 
 #. PickListDialog..Panel2..btnSelectAll..Caption
 #. PickListDialog..PickListPopUp..mnSelectAll..Caption
 #: dlgPickList.dfm
 msgid "&Select All"
-msgstr ""
+msgstr "&Marcar todos"
 
 #. PickListDialog..Panel2..btnDeselectAll..Caption
 #. PickListDialog..PickListPopUp..mnDeselectAll..Caption
 #. UnitTestWindow..DialogActions..actDeselectAll..Caption
 #: dlgPickList.dfm frmUnitTests.dfm
 msgid "&Deselect All"
-msgstr ""
+msgstr "&Desmarcar todos"
 
 #. PickListDialog..PickListPopUp..mnSelectAll..Hint
 #: dlgPickList.dfm
 msgid "Select all items"
-msgstr ""
+msgstr "Marcar todos os itens"
 
 #. PickListDialog..PickListPopUp..mnDeselectAll..Hint
 #: dlgPickList.dfm
@@ -813,17 +818,17 @@ msgstr ""
 #. ReplaceInFilesDialog..SpTBXPanel1..cbBackup..Caption
 #: dlgReplaceInFiles.dfm
 msgid "Backup Modified Files"
-msgstr ""
+msgstr "Salvar arquivos modificados"
 
 #. ReplaceInFilesDialog..SpTBXPanel1..lblWith..Caption
 #: dlgReplaceInFiles.dfm
 msgid "&With"
-msgstr ""
+msgstr "&Com"
 
 #. ReplaceInFilesDialog..SpTBXPanel1..lblIn..Caption
 #: dlgReplaceInFiles.dfm
 msgid "In"
-msgstr ""
+msgstr "Dentro"
 
 #. ReplaceInFilesDialog..SpTBXPanel1..lblReplace..Caption
 #. CommandsDataModule..actlMain..actSearchReplaceNow..Caption
@@ -831,41 +836,41 @@ msgstr ""
 #. FindResultsWindow..Actions..actReplaceAll..Category
 #: dlgReplaceInFiles.dfm dmCommands.dfm frmFindResults.dfm
 msgid "Replace"
-msgstr ""
+msgstr "Substituir"
 
 #. RunConfigurationForm..Caption
 #: dlgRunConfiguration.dfm
 msgid "Run Configuration"
-msgstr ""
+msgstr "Executar Configuração"
 
 #. RunConfigurationForm..Panel1..GroupBox1..Caption
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox1..Caption
 #: dlgRunConfiguration.dfm dlgToolProperties.dfm
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #. RunConfigurationForm..Panel1..GroupBox1..Label5..Caption
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox1..Label5..Caption
 #: dlgRunConfiguration.dfm dlgToolProperties.dfm
 msgid "Desc&ription:"
-msgstr ""
+msgstr "Desc&rição:"
 
 #. RunConfigurationForm..Panel1..GroupBox2..Caption
 #. Programmer's name for it: SPythonTemplateName
 #: dlgRunConfiguration.dfm StringResources.pas
 msgid "Python Script"
-msgstr ""
+msgstr "Script Python"
 
 #. RunConfigurationForm..Panel1..GroupBox2..Label2..Caption
 #: dlgRunConfiguration.dfm
 msgid "&File Name:"
-msgstr ""
+msgstr "Nome do &arquivo"
 
 #. RunConfigurationForm..Panel1..GroupBox2..Label6..Caption
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox2..Label6..Caption
 #: dlgRunConfiguration.dfm dlgToolProperties.dfm
 msgid "&Parameters:"
-msgstr ""
+msgstr "&Parâmetros:"
 
 #. RunConfigurationForm..Panel1..GroupBox2..Label7..Caption
 #. ToolProperties..Panel1..TabControl..tabProperties..GroupBox2..Label7..Caption
