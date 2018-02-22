@@ -808,12 +808,12 @@ msgstr "Marcar todos os itens"
 #. PickListDialog..PickListPopUp..mnDeselectAll..Hint
 #: dlgPickList.dfm
 msgid "Deselect all items"
-msgstr ""
+msgstr "Desmarcar todos os itens"
 
 #. ReplaceInFilesDialog..Caption
 #: dlgReplaceInFiles.dfm
 msgid "Replace Matches"
-msgstr ""
+msgstr "Substituir encontrados"
 
 #. ReplaceInFilesDialog..SpTBXPanel1..cbBackup..Caption
 #: dlgReplaceInFiles.dfm
@@ -1280,22 +1280,22 @@ msgstr "Rolar um por um"
 #. fmEditorOptionsDialog..Panel1..TabControl..Options..gbOptions..GridPanel1..StackPanel2..ckShowSpecialChars..Hint
 #: dlgSynEditOptions.dfm
 msgid "Shows line breaks, spaces and tabs using special symbols"
-msgstr ""
+msgstr "Mostrar quebra de linhas, espaços e tabs usando símbolos especiais"
 
 #. fmEditorOptionsDialog..Panel1..TabControl..Options..gbOptions..GridPanel1..StackPanel2..ckShowSpecialChars..Caption
 #: dlgSynEditOptions.dfm
 msgid "Show special chars"
-msgstr ""
+msgstr "Mostrar caracteres especiais"
 
 #. fmEditorOptionsDialog..Panel1..TabControl..Options..gbOptions..GridPanel1..StackPanel2..ckScrollPastEOF..Hint
 #: dlgSynEditOptions.dfm
 msgid "Allows the cursor to go past the end of file marker"
-msgstr ""
+msgstr "Permite que o cursor percorra o marcador até o final do arquivo"
 
 #. fmEditorOptionsDialog..Panel1..TabControl..Options..gbOptions..GridPanel1..StackPanel2..ckScrollPastEOF..Caption
 #: dlgSynEditOptions.dfm
 msgid "Scroll past end of file"
-msgstr ""
+msgstr "Rolar para depois do fim do arquivo"
 
 #. fmEditorOptionsDialog..Panel1..TabControl..Options..gbOptions..GridPanel1..StackPanel2..ckDisableScrollArrows....Hint
 #: dlgSynEditOptions.dfm
@@ -1303,11 +1303,13 @@ msgid ""
 "Disables the scroll bar arrow buttons when you can't scroll in that "
 "direction any more"
 msgstr ""
+"Desabilita a barra de rolagem, setas quando você não pode rolar"
+"para nenhuma direção"
 
 #. fmEditorOptionsDialog..Panel1..TabControl..Options..gbOptions..GridPanel1..StackPanel2..ckDisableScrollArrows..Caption
 #: dlgSynEditOptions.dfm
 msgid "Disable scroll arrows"
-msgstr ""
+msgstr "Desabilita setas de rolagem"
 
 #. fmEditorOptionsDialog..Panel1..TabControl..Options..gbOptions..GridPanel1..StackPanel2..ckScrollPastEOL....Hint
 #: dlgSynEditOptions.dfm
@@ -1315,6 +1317,8 @@ msgid ""
 "Allows the cursor to go past the last character into the white space at the "
 "end of a line"
 msgstr ""
+"Permite que o cursor ultrapasse o último caractere indo para dentro do espaço em branco até o"
+"final da linha"
 
 #. fmEditorOptionsDialog..Panel1..TabControl..Options..gbOptions..GridPanel1..StackPanel2..ckScrollPastEOL..Caption
 #: dlgSynEditOptions.dfm
